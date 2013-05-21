@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EarPractice</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="reset">RESET</string>
+    <string name="answer">Possible answer is: </string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btn10">10</string>
+    <string name="btn11">11</string>
+    <string name="btn12">12</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="again">Play Again</string>
+    <string name="right">Answer</string>
+    <string name="setting">Setting</string>
+    <string name="score">Score Total:</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="key">Key</string>
+    <string name="cadence">Cadence</string>
+    <string name="dpm">DPM</string>
+    <string name="tempo">Tempo</string>
+    <string-array name="chords">
+        <item >G</item>
+        <item >D</item>
+        <item >A</item>
+        <item >E</item>
+        <item >B</item>
+        <item >F#</item>
+        <item >F</item>
+        <item >Bb</item>
+        <item >Eb</item>
+        <item >Ab</item>
+        <item >Db</item>
+        <item >Gb</item>        
+    </string-array>
+    <string-array name="voice">
+        <item >Major</item>
+        <item >Minor</item>
+        <item >Minor(Hamonic)</item>
+        <item >Minor(Melodic)</item>        
+    </string-array>
+    <string name="check1">I</string>
+
+</resources>
