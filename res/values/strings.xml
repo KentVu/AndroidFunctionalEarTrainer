@@ -50,5 +50,7 @@
         <item >Minor(Melodic)</item>        
     </string-array>
     <string name="check1">I</string>
+    <string name="correct">Correct!</string>
+    <string name="notcorrect">NOT Correct!!</string>
 
 </resources>
