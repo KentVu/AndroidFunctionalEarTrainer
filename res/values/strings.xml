@@ -20,7 +20,7 @@
     <string name="btn12">12</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
-    <string name="again">Play Again</string>
+    <string name="again">Play \nAgain</string>
     <string name="right">Answer</string>
     <string name="setting">Setting</string>
     <string name="score">Score Total:</string>
