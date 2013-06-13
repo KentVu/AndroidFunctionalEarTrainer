@@ -30,6 +30,7 @@
     <string name="dpm">DPM</string>
     <string name="tempo">Tempo</string>
     <string-array name="chords">
+        <item >C</item>
         <item >G</item>
         <item >D</item>
         <item >A</item>
